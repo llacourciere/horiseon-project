@@ -32,7 +32,6 @@ header nav {
     font-size: 20px;
 }
 
-
 header nav ul li {
     display: inline-block;
     margin-left: 25px;
@@ -46,6 +45,7 @@ header nav ul li a {
 p {
     font-size: 16px;
 }
+/*Footer Style Start*/
 footer {
     padding: 30px;
     clear: both;
@@ -56,6 +56,8 @@ footer {
 footer h2 {
     font-size: 20px;
 }
+/*Footer Style End*/
+
 /* Hero Style Start*/
 .hero {
     height: 800px;
@@ -66,9 +68,6 @@ footer h2 {
     background-position: center;
 }
 /*Hero Style End*/
-
-
-
 
 /*Benefits Style Start*/
 .benefits {
@@ -97,6 +96,7 @@ footer h2 {
 
 /*Benefits Style End*/
 
+/*What We Do Style Start*/
 .what-we-do {
     width: 75%;
     display: inline-block;
@@ -127,3 +127,4 @@ footer h2 {
     float: right;
     margin-left: 25px;
 }
+/*What We Do Style End*/
